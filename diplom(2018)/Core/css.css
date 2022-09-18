@@ -1,0 +1,41 @@
+#prokrutka {
+    border-radius:10px;
+    height:200px; /* высота нашего блока */
+    background: #fff; /* цвет фона, белый */
+    border: 1px solid #C1C1C1; /* размер и цвет границы блока */
+    overflow: auto; /* прокрутка по горизонтали */
+    }
+    #prokrutka::-webkit-scrollbar {
+    width: 10px;
+    background-color: #f9f9fd;
+    }
+    
+    #prokrutka::-webkit-scrollbar-thumb {
+    border-radius: 10px;
+    background-color: #18aaaa;
+    }
+    .chat{
+        border-radius: 5px;
+        width: 200px;
+        word-wrap: break-word;
+        background:#42aaff;
+        margin-top:10px;
+        margin-left:10px;
+    }
+    .you{
+        border-radius: 5px;
+        width: 200px;
+        word-wrap: break-word;
+        background:#42aaff;
+        margin-top:10px;    
+        margin-left:30px;    
+    }
+#chat{width:260px;height:335px;border-radius:5px;}
+#name{margin-top:-40px;margin-left:60px;}
+#admin{margin-left:5px;margin-top:15px;width:250px;height:200px;}
+#text1{margin-top:3px;width:250px;height:30px;}	
+#onestr{width:250px;height:50px;}
+#pom{margin-top:-5px;margin-left:60px;}
+#t{width:250px;height:200px;}
+#button{margin-top:5px;margin-left:5px;}
+#foto{margin-left:5px;}
